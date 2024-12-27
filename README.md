@@ -1,5 +1,5 @@
 # 💫 About Me:
-I m Aniket Yadav<br>I’ m currently working on blockchain<br>Open for any blockchain and Web development  project<br>Love to spend time with error<br>Open to solve your error any time <br>Intrested in problem solving <br>
+I m Aniket Yadav<br>I’ m currently working on React Native<br>Open for any Web development  native projects<br>Love to spend time with errors<br>Open to solve your error any time <br>Intrested in problem solving <br>
 
 
 ## 🌐 Socials:
